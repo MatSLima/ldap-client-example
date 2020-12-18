@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LDAPClient2
+namespace LDAPClient
 {
     class Program
     {

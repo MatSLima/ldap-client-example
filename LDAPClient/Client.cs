@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Authentication;
 using Novell.Directory.Ldap;
 using DirectoryEntry = System.DirectoryServices.DirectoryEntry;
 
-namespace LDAPClient2
+namespace LDAPClient
 {
     public class LDAP
     {
