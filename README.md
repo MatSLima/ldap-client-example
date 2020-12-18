@@ -1,5 +1,5 @@
-# ldap-client
-LDAP client used to add and authenticate a user with apache active directory.
+# ldap-client-example
+LDAP client used as example to add and authenticate a user with apache active directory.
 
 ## Docker
 Run the following command:
